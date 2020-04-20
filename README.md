@@ -1,3 +1,3 @@
 # game-of-life
 
-pip install requirements.txt && python game-of-life.py
+pip install -r requirements.txt && python game-of-life.py
